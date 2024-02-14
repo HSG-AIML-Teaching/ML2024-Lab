@@ -10,8 +10,6 @@ The the lab content is based on [Python](https://www.python.org), [Jupyter Noteb
 
 Happy Coding!
 
-# TODO: UPDATE DATES / LINKS
-
 ## Course Logistics
 
 - **Lectures:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
