@@ -39,7 +39,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 | -                       | -       | Semester Break - Happy Easter!                          | -   | -   |
 | Mon, Apr. 15            | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
 | Mon, Apr. 22            | **Lab 6**   | Attention               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2024-Lab/blob/main/lab_6/gpt.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2024-Lab/main?filepath=lab_6%2gpt.ipynb)  |
-| Mon, Apr. 29            | **Lab 7**   | K-Means, EM Clustering & Iris               |  | |
+| Mon, Apr. 29            | **Lab 7**   | K-Means, EM Clustering & Iris               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2024-Lab/blob/main/lab_7/unsupervised.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2024-Lab/main?filepath=lab_7%2unsupervised.ipynb)  |
 | Mon, May. 06            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  |  | |
 | Mon, May. 13            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
 
